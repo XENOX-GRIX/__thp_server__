@@ -217,10 +217,10 @@ def main(path__, log__):
     # Parse the arguments
     opt = parser.parse_args(args)
     # default device is CUDA
-    dd = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    dd = torch.device('cpu')
     print('Using device:', dd)
 
-    opt.device = torch.device('cuda')
+    opt.device = dd
     print('[Info] parameters: {}'.format(opt))
 
     """ prepare dataloader """
@@ -265,7 +265,7 @@ def main(path__, log__):
     """ train the model """
     train(model, trainloader, testloader, optimizer, scheduler, pred_loss_func, opt)
 
-    torch.cuda.empty_cache()
+    # torch.cuda.empty_cache()
 
 
 
