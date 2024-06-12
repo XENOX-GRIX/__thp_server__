@@ -1,0 +1,3 @@
+[Info] Dataset: data/data_meme/
+[Info] Number of parameters: 28855178
+'[ Epoch' 1]

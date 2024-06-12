@@ -1,0 +1,42 @@
+[Info] Dataset: data/data_hawkesinhib/
+[Info] Number of parameters: 21177863
+'[ Epoch' 1]
+  - (Training)    loglikelihood:  0.31850, accuracy:  0.36149, RMSE:  1.35835, elapse: 3.788 min
+  - (Testing)     loglikelihood:  0.42931, accuracy:  0.36016, RMSE:  1.36084, elapse: 0.252 min
+  - [Info] Maximum ll:  0.42931, Maximum accuracy:  0.36016, Minimum RMSE:  1.36084
+'[ Epoch' 2]
+  - (Training)    loglikelihood:  0.62882, accuracy:  0.36157, RMSE:  1.35749, elapse: 3.788 min
+  - (Testing)     loglikelihood:  0.60918, accuracy:  0.36016, RMSE:  1.36057, elapse: 0.255 min
+  - [Info] Maximum ll:  0.60918, Maximum accuracy:  0.36016, Minimum RMSE:  1.36057
+'[ Epoch' 3]
+  - (Training)    loglikelihood:  0.75486, accuracy:  0.36155, RMSE:  1.35694, elapse: 3.776 min
+  - (Testing)     loglikelihood:  0.69496, accuracy:  0.36016, RMSE:  1.36062, elapse: 0.256 min
+  - [Info] Maximum ll:  0.69496, Maximum accuracy:  0.36016, Minimum RMSE:  1.36057
+'[ Epoch' 4]
+  - (Training)    loglikelihood:  0.80279, accuracy:  0.36144, RMSE:  1.35338, elapse: 3.783 min
+  - (Testing)     loglikelihood:  0.69842, accuracy:  0.36016, RMSE:  1.35980, elapse: 0.253 min
+  - [Info] Maximum ll:  0.69842, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 5]
+  - (Training)    loglikelihood:  0.82929, accuracy:  0.36148, RMSE:  1.36222, elapse: 3.782 min
+  - (Testing)     loglikelihood:  0.76698, accuracy:  0.36016, RMSE:  1.35986, elapse: 0.256 min
+  - [Info] Maximum ll:  0.76698, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 6]
+  - (Training)    loglikelihood:  0.84596, accuracy:  0.36155, RMSE:  1.36138, elapse: 3.767 min
+  - (Testing)     loglikelihood:  0.72774, accuracy:  0.36016, RMSE:  1.36009, elapse: 0.252 min
+  - [Info] Maximum ll:  0.76698, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 7]
+  - (Training)    loglikelihood:  0.86112, accuracy:  0.36149, RMSE:  1.35879, elapse: 3.783 min
+  - (Testing)     loglikelihood:  0.83174, accuracy:  0.36016, RMSE:  1.36024, elapse: 0.252 min
+  - [Info] Maximum ll:  0.83174, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 8]
+  - (Training)    loglikelihood:  0.87245, accuracy:  0.36154, RMSE:  1.36577, elapse: 3.771 min
+  - (Testing)     loglikelihood:  0.80027, accuracy:  0.36016, RMSE:  1.36030, elapse: 0.252 min
+  - [Info] Maximum ll:  0.83174, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 9]
+  - (Training)    loglikelihood:  0.87908, accuracy:  0.36139, RMSE:  1.36896, elapse: 3.780 min
+  - (Testing)     loglikelihood:  0.72599, accuracy:  0.36016, RMSE:  1.36003, elapse: 0.255 min
+  - [Info] Maximum ll:  0.83174, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980
+'[ Epoch' 10]
+  - (Training)    loglikelihood:  0.88844, accuracy:  0.36144, RMSE:  1.35075, elapse: 3.788 min
+  - (Testing)     loglikelihood:  0.83940, accuracy:  0.36016, RMSE:  1.36026, elapse: 0.256 min
+  - [Info] Maximum ll:  0.83940, Maximum accuracy:  0.36016, Minimum RMSE:  1.35980

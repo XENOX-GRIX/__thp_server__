@@ -1,0 +1,7 @@
+[Info] Dataset: 
+[Info] Number of parameters: 21173252
+'[ Epoch' 1]
+  - (Training)    loglikelihood: -1.26963, accuracy:  0.58173, RMSE:  20.25897, elapse: 9.386 min
+  - (Testing)     loglikelihood: -1.16922, accuracy:  0.61331, RMSE:  17.45370, elapse: 0.240 min
+  - [Info] Maximum ll: -1.16922, Maximum accuracy:  0.61331, Minimum RMSE:  17.45370
+'[ Epoch' 2]
